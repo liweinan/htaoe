@@ -11,6 +11,10 @@ $ docker run -it --privileged weli/docker-assembly-gef-pyenv bash
 在容器内部执行：
 
 ```bash
+$ cd /root
+```
+
+```bash
 $ git clone https://github.com/liweinan/htaoe.git
 Cloning into 'htaoe'...
 remote: Enumerating objects: 10, done.
