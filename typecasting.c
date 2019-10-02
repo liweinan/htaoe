@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int a, b;cd
+    int a, b;
     float c, d;
 
     a = 13;
